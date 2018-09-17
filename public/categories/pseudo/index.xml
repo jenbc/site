@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudo on Airspace for Hugo</title>
+    <link>/categories/pseudo/</link>
+    <description>Recent content in Pseudo on Airspace for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taking a Bite Out of My Apple</title>
+      <link>/blog/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/hugo-is-for-lovers/</guid>
+      <description>Over the last couple of years, there have been many court cases between US law enforcement and privatecompanies. These cases are often over issues of privacy where government agencies want access to someone&amp;rsquo;s messages or phones. In most of these cases, the communication company wins.
+Specifically, in 2016, Apple and the FBI went to court over the FBI&amp;rsquo;s demand that Apple creates a software giving the FBI access to phones. This followed the San Bernardino attack, where the FBI wanted Apple to unlock the phone of someone related to the attack.</description>
+    </item>
+    
+  </channel>
+</rss>

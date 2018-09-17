@@ -1,59 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Hello Friend</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Hello Friend</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hello World</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>Hello Worldcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hello/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip;
-But that&amp;rsquo;s a slippery slope.
-You&amp;rsquo;re only in my head.
-We have to remember that&amp;hellip;
-Shit.
-It&amp;rsquo;s actually happened.
-I&amp;rsquo;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
-    </item>
-    
-    <item>
-      <title>Taking a Bite Out of My Apple</title>
-      <link>/post/post2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post2/</guid>
-      <description>Over the last couple of years, there have been many court cases between US law enforcement and private companies. These cases are often over issues of privacy where government agencies want access to someone’s messages or phones. In most of these cases, the communication company wins. Specifically, in 2016, Apple and the FBI went to court over the FBI’s demand that Apple creates a software giving the FBI access to phones.</description>
-    </item>
-    
-    <item>
-      <title>Taking a Bite Out of My Apple</title>
-      <link>/post/post2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post2/</guid>
-      <description>knitr::opts_chunk$set(echo = TRUE)  Over the last couple of years, there have been many court cases between US law enforcement and private companies. These cases are often over issues of privacy where government agencies want access to someone&amp;rsquo;s messages or phones. In most of these cases, the communication company wins. Specifically, in 2016, Apple and the FBI went to court over the FBI&amp;rsquo;s demand that Apple creates a software giving the FBI access to phones.</description>
-    </item>
-    
-  </channel>
-</rss>
